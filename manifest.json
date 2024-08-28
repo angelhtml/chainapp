@@ -1,0 +1,31 @@
+{
+    "name": "نام وب سایت",
+    "short_name": "نام کوچک",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#0ff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/assets/favicon/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/assets/favicon/favicon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/assets/favicon/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/favicon/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
